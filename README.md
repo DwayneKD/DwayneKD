@@ -4,22 +4,23 @@
 
 # Hi there 👋 I'm Dwayne
 
-Welcome to my GitHub! I'm passionate about cloud technology, creative problem-solving, and building tools that help people grow — whether that’s through automation, mental health apps, or inspiring conversations.
+Welcome to my GitHub! I'm passionate about cloud technology, creative problem-solving, and building tools that help people grow — whether that’s through automation, mental wellness apps, or inspiring conversations.
 
 ---
 
 - 🔭 I’m currently working on a **Mood Tracker Web App** using AWS (Lambda, DynamoDB, S3, API Gateway) and JavaScript for the frontend.
 - 🌱 I’m currently learning more about **AWS Solutions Architecture** and building real-world projects to deepen my cloud skills.
-- 👯 I’m looking to collaborate on **simple mental health tools**, **metric-data tech ideas**, and **serverless AWS projects**.
+- 👯 I’m looking to collaborate on **simple mental wellness tools**, **metric-data tech ideas**, and **serverless AWS projects**.
 - 🤔 I’m looking for help with **refining backend efficiency**, best practices in **cloud security**, and learning **DevOps tooling**.
 - 💬 Ask me about **my journey into tech from logistics**, how I passed my AWS Cloud Practitioner exam, or my project **IamSoLondon** where I interview Londoners to uplift and connect.
 - 📫 How to reach me: dwaynekriley@gmail.com or connect with me on www.linkedin.com/in/dwayne-riley-85200719a
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I used to deliver packages across London — now I deliver code to the cloud.
+- ⚡ Fun fact: I used to deliver packages across London, now I deliver code to the cloud 😎
 
 ---
 
-🧠 “Stay rooted. Stay building.”  
+🧠 Stay rooted. Stay building!
+
 Thanks for stopping by!
 
 
