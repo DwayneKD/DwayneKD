@@ -1,5 +1,5 @@
 ## 
-![github-header-image (1)](https://github.com/user-attachments/assets/25989527-097d-4632-9e1c-448767095ca1)
+![github-header-image (3)](https://github.com/user-attachments/assets/d13ead4e-f902-4285-a50a-c3752ea23974)
 
 
 # Hi there 👋 I'm Dwayne
