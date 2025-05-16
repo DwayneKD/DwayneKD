@@ -1,4 +1,5 @@
-## Hi there 👋
+## 
+![github-header-image](https://github.com/user-attachments/assets/3ddf77d3-b3c6-4c96-acaa-2ea95150e7d6)
 
 <!--
 **DwayneKD/DwayneKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
